@@ -1,6 +1,6 @@
-## Hi, I'm Rafael Karcz 👋
+### Hi, I'm Rafael Karcz 👋
 
-Welcome to my GitHub profile! I'm a data-driven enthusiast with a strong passion for data science, data analysis, and the pursuit of knowledge!
+and I'm a data-driven enthusiast with a strong passion for data science, data analysis, and the pursuit of knowledge!
 
 🔭 Currently, I'm honing my skills in data science, focusing on practical applications in business analysis and data analysis. I’m particularly interested in using data to solve global problems and contribute to transformational changes. But this journey will take me a few years for sure. For now, I will focus on working through the Data Analyst Bootcamp by Alex Freberg (aka Alex The Analyst).
 
