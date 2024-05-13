@@ -2,7 +2,7 @@
 
 and I'm a data-driven enthusiast with a strong passion for data science, data analysis, and the pursuit of knowledge!
 
-🔭 Currently, I'm honing my skills in data science, focusing on practical applications in business analysis and data analysis. I’m particularly interested in using data to solve global problems and contribute to transformational changes. But this journey will take me a few years for sure. For now, I will focus on working through the Data Analyst Bootcamp by Alex Freberg (aka Alex The Analyst).
+⚡️ Currently, I'm honing my skills in data science, focusing on practical applications in business analysis and data analysis. I’m particularly interested in using data to solve global problems and contribute to transformational changes. But this journey will take me a few years for sure. For now, I will focus on working through the Data Analyst Bootcamp by Alex Freberg (aka Alex The Analyst).
 
 🎓 I recently completed my degree in economics and am preparing to further my education in data science, with an eye towards specializing in bioinformatics and physics.
 
@@ -13,7 +13,7 @@ and I'm a data-driven enthusiast with a strong passion for data science, data an
 ---
 
 ### Fun Fact 🌍
-- 🌐 I've lived in so many places that I consider the whole world my home. Isn't that exciting? I currently reside around Tokyo, though.
+I've lived in so many places that I consider the whole world my home. Isn't that exciting? I currently reside around Tokyo, though.
 
 ---
 
