@@ -1,4 +1,4 @@
-### Hi, I'm Rafael Karcz 👋
+### Hi there, I am Rafael Karcz 👋
 
 and I'm a data-driven enthusiast with a strong passion for data science, data analysis, and the pursuit of knowledge!
 
