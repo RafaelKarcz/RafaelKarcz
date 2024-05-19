@@ -13,7 +13,7 @@ and I'm a data-driven enthusiast with a strong passion for data science, data an
 ---
 
 ### Fun Fact 🌍
-I've lived in so many places that I consider the whole world my home. Isn't that exciting? I currently reside around Tokyo, though.
+I've lived in so many places that I consider the whole world my home. Isn't that exciting? I currently reside around Tokyo.
 
 ---
 
