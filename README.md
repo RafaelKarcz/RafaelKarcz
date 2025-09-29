@@ -1,41 +1,52 @@
-### Hi there, I am Rafael Karcz 👋
+# Hi, I'm Rafael Karcz 👋
 
-and I'm a data-driven enthusiast with a strong passion for data science, data analysis, and the pursuit of knowledge!
+I'm a data-driven analyst who loves turning messy, real-world problems into clean, actionable insights. I care about systems, small improvements, and tools that scale.
 
-⚡️ Currently, I'm honing my skills in data science, focusing on practical applications in business analysis and data analysis. I’m particularly interested in using data to solve global problems and contribute to transformational changes. But this journey will take me a few years for sure. For now, I will focus on working through the Python Developer course on Jetbrains' Hyperskill platform as well as a Coursera AWS Fundamentals Specialization.
+## Current focus ⚡️
+I'm honing my data skills with a bias toward practical business impact. Long-term, I want to use data to drive meaningful, positive change. Right now I'm working through the **Python Developer** path on JetBrains’ Hyperskill and a **Coursera AWS Fundamentals** specialization.
 
-🎓 I recently completed my degree in economics and am preparing to further my education in data science, with an eye towards specializing in bioinformatics and physics.
+## Background 🎓
+I completed my **Economics** degree **two years ago** and have been deepening my toolkit across Python, SQL, and analytics engineering since.
 
-👨🏻‍💻 I love coding and creating efficient data workflows, and I’m a proponent of open-source software. You'll find various projects here, showcasing my skills in Python, SQL, and Bash. For my Data Visualization projects, head over to my [Tableau Public site](https://public.tableau.com/app/profile/rafaelkarcz/vizzes).
+## What I believe 👨🏻‍💻
+I love coding and creating efficient data workflows, and I’m a proponent of open-source software. You'll find projects here showcasing **Python**, **SQL**, **Power BI**, and **Bash**.
 
-📖 You should also know that I am a keen learner. Sounds cheesy and quirky, but I believe that simply sitting down a few minutes a day to learn is a great way to stay optimistic and mentally fit.
+For data visualization, see both:
+- My **Power BI** report repos here on GitHub, and
+- Selected work on **[Tableau Public](https://public.tableau.com/app/profile/rafaelkarcz/vizzes)**
 
----
+## Skills & tools 🧰
+- **Languages:** Python | SQL | Bash  
+- **Analytics & Viz:** Power BI (DAX | Power Query) | Tableau  
+- **Data stack:** pandas | NumPy | Matplotlib | BeautifulSoup | Requests | SQLAlchemy  
+- **Environment & tooling:** Power BI Desktop | Git/GitHub | Linux & Windows/WSL | Conda/venv | Jupyter | VS Code
+- **Practices:** Data cleaning | feature engineering | automation/ETL | dashboard design | documentation-first mindset
 
-### Fun Fact 🌍
-I've lived in so many places that I consider the whole world my home. Isn't that exciting? I currently reside around Tokyo.
+## Project highlights 🚀
+- **[Power BI — AdventureWorks](https://github.com/RafaelKarcz/PowerBI_AdventureWorks)**  
+  Star schema, robust DAX measures (AOV, T12M, Time Intelligence), KPI tiles, drill-throughs, and clean UX; focused on performance and business storytelling.
+  
+- **[Python — Investor Calculator](https://github.com/RafaelKarcz/InvestorCalculator)**  
+  CLI/Notebook tool to evaluate investment scenarios (lump-sum vs DCA, fees, taxes, FX), with charts and sensitivity analysis.
+  
+- **[SQL — Expense Tracker](https://github.com/RafaelKarcz/ExpenseTracker)**  
+  End-to-end SQL project modeling expenses: clean, categorize, and aggregate transactions; views for monthly burn, vendor analysis, and rolling 12-month trends.
 
----
+- **[Bash — True or False (mini-game)](https://github.com/RafaelKarcz/True-or-False-Game)**  
+  Lightweight Bash project demonstrating CLI UX patterns, input validation, and file I/O.
 
-### Projects Highlight
-- **DataCleaningSQL**: A repository where I refine and analyze datasets using advanced SQL queries.
-- **Amazon Web Scraper**: A Python project that demonstrates my web scraping capabilities to extract and process real-time data.
+> Want a deeper dive? Explore more in my GitHub repos and portfolio.
 
----
+## Ask me about 📬
+- Data analysis & visualization  
+- SQL modeling and data cleaning  
+- Python automation & scraping  
+- Building practical, readable dashboards  
+- Zen + small habits that compound
 
-### Ask Me About 📬
-- 💻 Data Science
-- 📊 Business Analysis
-- 🌍 Globetrotting and Adventure
-- 📘 Continuous Learning
-- 🛞 Zen
+## Fun fact 🌍
+I’ve lived in enough places that the world feels like home. These days, I’m based in **Tokyo**.
 
----
-
-If you want to know more or collaborate on a project, feel free to reach out!
-
-### Connect with Me
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/rafael-karcz/)
-- 📝 [Portfolio Website](https://rafaelkarcz.github.io)
-
-Feel free to check out my website for a deeper dive into my professional journey and projects!
+## Connect
+- 🖇️ LinkedIn: https://www.linkedin.com/in/rafael-karcz/  
+- 📝 Portfolio: https://rafaelkarcz.github.io
